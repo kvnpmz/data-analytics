@@ -1,11 +1,13 @@
 import Header from "../Components/Header/Header";
-import Graph from "../Components/Graph/Graph";
+import BarChart from "../Components/BarChart/BarChart";
+import LineChart from "../Components/LineChart/LineChart";
 
 export default function Home() {
     return (
         <>
             <Header />
-            <Graph />
+            <BarChart />
+            <LineChart />
         </>
     );
 }

@@ -7,7 +7,7 @@ const data = [
   // Add more items and counts as needed
 ];
 
-export default function Graph() {
+export default function BarChart() {
     return(
         <>
             <Paper
